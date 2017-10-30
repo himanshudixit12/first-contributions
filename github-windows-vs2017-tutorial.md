@@ -31,6 +31,7 @@ The next step is to clone your repo down to your machine so you can begin making
 click the copy to clipboard icon.
 
 **CAREFUL:** One mistake new contributors often make is to clone the repo you forked *from* rather than cloning your repo.  Check your browser's address bar and make sure you are cloning your repo.
+Every time make a sever cloud storage for your repo.
 
 It is now time to jump in to Visual Studio 2017!  You will be working in the Team Explorer tab for most of this tutorial.  If it is not open by default, click `View > Team Explorer` to open it.
 
