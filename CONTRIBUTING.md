@@ -8,7 +8,7 @@ Welcome your contribution. :heart:
 
 ## Code of Conduct
 If you want to contribute, you will need to know a few things.
-
+And permission are required. 
 [Code of conduct](CODE_OF_CONDUCT.md)
 
 ## Translation Guide
